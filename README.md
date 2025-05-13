@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # nuxt-i18n-dark-dashboard
 
 A modern, customizable admin dashboard built with **Nuxt 3**, featuring:
